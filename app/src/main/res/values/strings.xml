@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation Emporium</string>
+    <string name="info_section_body_example">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget euismod massa, ut ultricies lorem. In sit amet rhoncus felis. Ut dictum a ex tincidunt finibus. Pellentesque eu tempus libero. Cras rutrum, tellus ac venenatis hendrerit, ante diam semper quam, vitae vulputate ligula lectus ac ipsum. Sed aliquam tortor tellus, interdum faucibus ligula convallis at. Curabitur hendrerit lacinia auctor. In dictum consequat ante eu commodo. Suspendisse potenti.</string>
+    <string name="info_section_text">About</string>
+    <string name="demo_1_text_2">This text is only visible upon press. Using AnimatedVisibility Composable</string>
+    <string name="tap_to_the_text">tap to %1$s the text</string>
+</resources>
